@@ -1,18 +1,18 @@
-# 📊 Customer Churn Analysis
+#  Customer Churn Analysis
 
-## 📌 Objective
+##  Objective
 The goal of this project is to analyze customer churn behavior and build a predictive model to identify customers who are likely to leave a telecom service.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Telco Customer Churn Dataset  
 - Contains information about ~7,000 customers  
 - Includes features like tenure, monthly charges, contract type, and services used  
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -21,7 +21,7 @@ The goal of this project is to analyze customer churn behavior and build a predi
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Key observations:
 - Customers with low tenure are more likely to churn  
@@ -30,20 +30,20 @@ Key observations:
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### Feature Importance
 Feature Importance
 
 ---
 
-## 🤖 Model Building
+## Model Building
 - Model used: Random Forest Classifier  
 - Reason: Handles feature importance well and performs robustly  
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 - Accuracy: 80.4%  
 - ROC-AUC Score: 0.84
 - Key Features:
@@ -53,14 +53,14 @@ Feature Importance
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 - Focus on retaining new customers (low tenure)  
 - Offer incentives for long-term contracts  
 - Monitor customers with high monthly charges  
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates how machine learning can be used to predict customer churn and generate actionable business insights to improve customer retention.
 
 ---
