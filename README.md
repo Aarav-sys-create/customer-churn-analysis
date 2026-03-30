@@ -22,3 +22,21 @@ Telco customer dataset containing customer demographics, tenure, and service usa
 - Contract type significantly impacts churn behavior
 
 ## 📎 Project Structure
+
+customer-churn-analysis/
+│
+├── data/
+│   └── customer_churn.csv        # Dataset used for analysis
+│
+├── notebooks/
+│   └── churn_analysis.ipynb      # Jupyter Notebook with full analysis
+│
+├── images/
+│   └── churn_feature_importance.png   # Visualizations
+│
+├── dashboard/
+│   └── churn_dashboard.pbix      # Power BI dashboard (optional)
+│
+├── requirements.txt              # Python dependencies
+│
+└── README.md                    # Project documentation
