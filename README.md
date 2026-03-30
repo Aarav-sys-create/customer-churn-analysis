@@ -14,7 +14,7 @@ Telco customer dataset containing customer demographics, tenure, and service usa
 
 ## 📈 Results
 - Logistic Regression Accuracy: 80.4%
-- Random Forest Accuracy: (add if you calculated)
+- Random Forest Accuracy: 80.2%
 
 ## 🔍 Key Insights
 - Customers with higher monthly charges are more likely to churn
