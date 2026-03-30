@@ -35,8 +35,13 @@ customer-churn-analysis/
 │   └── churn_feature_importance.png   # Visualizations
 │
 ├── dashboard/
-│   └── churn_dashboard.pbix      # Power BI dashboard (optional)
+│   └── churn_dashboard.pbix      # Power BI dashboard 
+
+## Feature Importance
+[Feature Importance](data/notebooks/src/images/churn_featuure_importance.png)
 │
 ├── requirements.txt              # Python dependencies
 │
 └── README.md                    # Project documentation
+
+This Plot shows that tenture and monthly charges are the most influential factors in predicting customer churn.
