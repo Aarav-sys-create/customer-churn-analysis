@@ -29,16 +29,9 @@ Key observations:
 - Higher monthly charges correlate with higher churn  
 
 ## Visualizations
-
-### Churn Distribution
-![Churn](images/churn_distribution.png)
-
-### Monthly Charges vs Churn
-![Charges](images/monthly_charges.png)
-
-### Tenure vs Churn
-![Tenure](images/tenure.png)
-
+![Churn](04-images/churn_distribution.png)
+![Charges](04-images/monthly_charges.png)
+![Tenure](04-images/tenure.png)
 
 
 ## Model Building
