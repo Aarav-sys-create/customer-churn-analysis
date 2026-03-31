@@ -28,14 +28,18 @@ Key observations:
 - Month-to-month contracts show higher churn rates  
 - Higher monthly charges correlate with higher churn  
 
----
-
 ## Visualizations
 
-### Feature Importance
-Feature Importance
+### Churn Distribution
+![Churn](images/churn_distribution.png)
 
----
+### Monthly Charges vs Churn
+![Charges](images/monthly_charges.png)
+
+### Tenure vs Churn
+![Tenure](images/tenure.png)
+
+
 
 ## Model Building
 - Model used: Random Forest Classifier  
