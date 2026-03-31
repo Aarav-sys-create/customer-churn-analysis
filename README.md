@@ -94,21 +94,21 @@ This project demonstrates how machine learning can be used to predict customer c
 customer-churn-analysis/
 │
 ├── data/
-│   └── churn_data.csv
+│ └── churn_data.csv
 │
 ├── notebooks/
-│   └── churn_analysis.ipynb
+│ └── churn_analysis.ipynb
 │
 ├── src/
-│   ├── model.py
-│   └── churn_plot.py
+│ ├── model.py
+│ └── churn_plot.py
 │
 ├── images/
-│   ├── churn_distribution.png
-│   ├── monthly_charges.png
-│   └── tenure.png
+│ ├── churn_distribution.png
+│ ├── monthly_charges.png
+│ └── tenure.png
 │
 ├── dashboard/
-│   └── churn_dashboard.pbix
+│ └── churn_dashboard.pbix
 │
 └── README.md
