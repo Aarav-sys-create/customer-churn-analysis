@@ -63,6 +63,20 @@ Key observations:
 - Recall (Churn=1): 0.49
 - F1-score: 0.56
 
+ ## Dashboard
+
+Power BI dashboard analyzing customer churn.
+
+### Features:
+- KPI cards (Total Customers, Churn Rate, Avg Charges)
+- Churn by Contract, Gender, Payment Method
+- Customer behavior analysis (Tenure, Charges)
+
+### Key Insights:
+- Month-to-month customers have highest churn
+- High charges increase churn probability
+- Low tenure customers churn more
+
 ## Business Insights
 - Focus on retaining new customers (low tenure)  
 - Offer incentives for long-term contracts  
