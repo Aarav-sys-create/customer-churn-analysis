@@ -51,7 +51,13 @@ Feature Importance
   - Monthly Charges  
   - Contract Type  
 
----
+- Algorithm: Logistic Regression
+- Accuracy: ~79%
+
+### Classification Report:
+- Precision (Churn=1): 0.64
+- Recall (Churn=1): 0.49
+- F1-score: 0.56
 
 ## Business Insights
 - Focus on retaining new customers (low tenure)  
